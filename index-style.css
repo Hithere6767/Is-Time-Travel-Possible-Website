@@ -2,12 +2,29 @@ body {
   
 }
 h1 {
-  border: 50px solid red;
-  background-color: maroon;
+  padding-top: 237px;
+  padding-bottom: 237px;
+  font: bold 50px "Brush Script MT", cursive;
+  margin-top: 27px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 35px ridge #FEFE33; /*This is the red box around the banner*/
+  outline: 30px ridge #FE2712; /*This adds a third color to the pile*/
+  background-color: #347C98; /*This is the banner*/
   color: aquamarine;
   text-align: center;
 }
 p {
   text-align: justify;
-  background-color: white;
+}
+#para1 {
+  text-align: center;
+  font-size: 50px;
+  color: red;
+  size: 30px;
+  text-shadow: 2px 2px 5px orange, 2px 2px 10px #FE2712;
+}
+#para2 {
+  font-size: 20px;
+  border-left: 4px solid blue;
 }
