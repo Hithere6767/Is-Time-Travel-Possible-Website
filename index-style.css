@@ -34,6 +34,9 @@ p {
 #mainParas {
   border: 4px dashed dotted aqua;
 }
+#vids {
+  border: 4px solid gold;
+}
 #source {
   font-style: italic;
 }
