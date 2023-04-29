@@ -31,6 +31,9 @@ p {
   font-size: 20px;
   border-left: 4px solid blue;
 }
+#mainParas {
+  border: 4px dashed dotted aqua;
+}
 #source {
   font-style: italic;
 }
